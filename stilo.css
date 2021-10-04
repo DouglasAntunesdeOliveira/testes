@@ -1,0 +1,27 @@
+    body{
+        background: rgba(93, 85, 238, 0.822);
+        text-align: center;
+        
+    
+    }
+
+    header{
+        font: normal 20pt Arial;
+        color: white;
+
+    }
+
+    section{
+        color: rgb(0, 0, 0);
+        font: normal 20pt Arial;
+        background: white;
+        width: 500px;
+        margin: auto;
+        border-radius: 10px;
+    }
+
+    footer{
+        color: white;
+        font-style: italic;
+
+    }
